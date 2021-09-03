@@ -1,0 +1,5 @@
+node_modules
+src
+*.txt
+*.json
+webpack.config.js
